@@ -1,0 +1,1 @@
+A simple springboot project to demonstrate redis cache usage
